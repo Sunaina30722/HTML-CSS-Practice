@@ -1,0 +1,24 @@
+.request-now-button{
+        color: white;
+        background-color: black;
+        height: 40px;
+        width: 130px;
+        border: none;
+        transition: opacity 0.15s;
+      }
+      .request-now-button:hover{
+        opacity: 0.85;
+      }
+      .save-button{
+        background-color: white;
+        color: blue;
+        height: 40px;
+        width: 90px;
+        border-width: 1px;
+        border-color: blue;
+        border-radius: 20px;
+        transition: border-width 0.15s;
+      }
+      .save-button:hover{
+        border-width: 2px;
+      }

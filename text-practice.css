@@ -1,0 +1,34 @@
+p{
+                font-family: Arial;
+            }
+            .video-title{
+                font-weight: bold;
+                line-height: 23px;
+                width: 280px;
+                font-size: 18px;
+            }
+            .stats{
+                color: rgb(96, 96, 96);
+                font-size: 14px;
+            }
+            .author{
+                color: rgb(96, 96, 96);
+                font-size: 14px;
+            }
+            .description{
+                color: rgb(96, 96, 96);
+                font-size: 14px;
+                width: 280px;
+            }
+            .apple-store{
+                background-color: rgb(228, 53, 53);
+                color: white;
+                font-size: 14px;
+                text-align: center;
+                padding-top: 18px;
+                padding-bottom: 18px;
+            }
+            .shop-link:hover{
+                text-decoration: underline;
+                cursor: pointer;
+            }

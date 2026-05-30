@@ -1,0 +1,43 @@
+button{
+                background-color: green;
+                color: white;
+                border: none;
+                border-radius: 2px;
+                padding-left: 15px;
+                padding-right: 15px;
+                padding-bottom: 6px;
+                padding-top: 6px;
+                margin-left: 10px;
+                margin-right: 10px;
+                cursor: pointer;
+            }
+            .stretch-btn{
+                transition: padding-left 0.15s, padding-right 0.15s, padding-top 0.15s, padding-bottom 0.15s;
+                vertical-align: top;
+            }
+            .stretch-btn:hover{
+                padding-left: 18px;
+                padding-right: 18px;
+                padding-bottom: 9px;
+                padding-top: 9px;
+            }
+            .stretch-btn:active{
+                opacity: 0.5;
+            }
+            .shadow-btn{
+                transition: box-shadow 0.15s;
+            }
+            .shadow-btn:hover{
+                box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.45);
+            }
+            .shadow-btn:active{
+                opacity: 0.5;
+            }
+            .margin-btn{
+                transition: padding-left 0.15s, padding-right 0.15s, margin-left 0.15s;
+            }
+            .margin-btn:hover{
+                padding-left: 18px;
+                padding-right: 18px;
+                margin-left: 7px;
+            }

@@ -1,0 +1,52 @@
+
+            .tahoma-font{
+                font-family: Tahoma;
+                font-weight: bold;
+            }
+            .arial-font{
+                font-family: Arial;
+                font-weight: bold;
+            }
+            .italic{
+                font-style: italic;
+                color: red;
+            }
+            .verdana-font{
+                font-style: Verdana;
+                font-weight: bold;
+            }
+            .description{
+                font-style: Verdana;
+                color: grey;
+            }
+            .get-started{
+                background-color: green;
+                color: white;
+                border: none;
+                border-radius: 3px;
+                padding-left: 9px;
+                padding-right: 9px;
+                padding-top: 4px;
+                padding-bottom: 4px;
+            }
+            .arial-bold{
+                font-family: Arial;
+                font-weight: bold;
+                font-size: 18px;
+                text-align: center;
+            }
+            .tag-line{
+                font-family: Arial;
+                text-align: center;
+                line-height: 4px;
+                font-size: 12px;
+            }
+            .link{
+                color: blue;
+                font-size: 12px;
+                text-align: center;
+                cursor: pointer;
+            }
+            .link:hover{
+                text-decoration: underline;
+            }
