@@ -1,0 +1,168 @@
+p{
+                margin-top: 0;
+                margin-bottom: 0;
+                font-family: roboto,sans-serif;
+            }
+            .kitten{
+                width: 300px;
+                height: 300px;
+                object-fit: cover;
+                object-position: left;
+                border-radius: 2px;
+            }
+            .circle-kitten{
+                width: 100px;
+                height: 100px;
+                object-fit: cover;
+                object-position: left;
+                border-radius: 50px;
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+            input{
+                border-radius: 3px;
+                margin-left: 10px;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-left: 4px;
+                font-size: 12px;
+                border-style: solid;
+                border-width: 1px;
+                transition: border-color 0.15s;
+            }
+            input:hover{
+                border-color: black;
+            }
+            .searchbox{
+                width: 100px;
+                margin-top: 5px;
+            }
+            .email{
+                margin-left: 10px;
+                margin-bottom: 0px;
+                font-family: Arial;
+                font-size: 10px;
+                color: blue;
+            }
+            .emailbox{
+                width: 200px;
+                margin-top: 2px;
+                display: block;
+            }
+            .checkbox{
+                margin-top: 14px;
+            }
+            .t-and-c{
+                margin-top: 14px;
+                display: inline;
+                font-size: 12px;
+            }
+            .Join{
+                margin-left: 13px;
+                margin-top: 14px;
+                border: none;
+                width: 200px;
+                background-color: rgba(30, 138, 226, 0.911);
+                color: white;
+                height: 30px;
+                font-size: 13px;
+                border-radius: 15px;
+            }
+            .Join:hover{
+                opacity: 0.85;
+            }
+            .Join:active{
+                opacity: 0.5;
+            }
+            .terms{
+                display: block;
+            }
+            .kitten-profile{
+                width: 35px;
+                height: 35px;
+                object-fit: cover;
+                object-position: left;
+                border-radius: 50px;
+                margin-left: 10px;
+                margin-right: 7px;
+                vertical-align: middle;
+            }
+            .tweet{
+                display: inline;
+                vertical-align: middle;
+                margin-right: 100px;
+            }
+            .tweet-btn{
+                background-color: rgba(30, 138, 226, 0.911);
+                color: white;
+                padding-left: 12px;
+                padding-right: 12px;
+                padding-bottom: 5px;
+                padding-top: 5px;
+                border: none;
+                font-size: 13px;
+                border-radius: 11px;
+                vertical-align: middle;
+            }
+            .tweet-btn:hover{
+                opacity: 0.85;
+            }
+            .tweet-btn:active{
+                opacity: 0.5;
+            }
+            .new-tweet{
+                display: inline-block;
+                border-width: 1px;
+                border-style: solid;
+                border-color: rgb(197, 187, 187);
+                padding-bottom: 4px;
+                padding-top: 4px;
+                padding-right: 14px;
+                padding-left: 4px;
+                border-radius: 4px;
+                box-shadow: 3px 3px 11px rgba(0, 0, 0, 0.2);
+            }
+            .user-info{
+                font-family: Arial;
+                margin-left: 12px;
+            }
+            .username{
+                font-size: 35px;
+                font-weight: 600;
+                margin-top: 3px;
+                margin-bottom: 3px;
+            }
+            .mutuals{
+                font-size: 20px;
+                color: rgb(102, 101, 101);
+                margin-bottom: 16px;
+            }
+            .add-friend{
+                font-size: 20px;
+                background-color: rgb(0, 119, 255);
+                color: white;
+                border: none;
+                padding-left: 20px;
+                padding-right: 20px;
+                padding-top: 8px;
+                padding-bottom: 8px;
+                border-radius: 4px;
+            }
+            .add-friend:hover{
+                opacity: 0.85;
+            }
+            .add-friend:active{
+                opacity: 0.5;
+            }
+            .users{
+                border-style: solid;
+                border-color: rgb(158, 158, 158);
+                display: inline-block;
+                border-width: 1px;
+                padding-left: 0px;
+                padding-right: 0px;
+                padding-bottom: 9px;
+                width: 300px;
+                margin-left: 10px;
+                box-shadow: 4px 4px 11px rgba(0, 0, 0, 0.4);
+            }

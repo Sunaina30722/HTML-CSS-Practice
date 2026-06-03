@@ -1,0 +1,23 @@
+            p{
+                margin: 0;
+                font-family: roboto, Arial;
+            }
+            .grid{
+                display: grid;
+                grid-template-columns: 1fr 1fr 1fr;
+            }
+            .thumbnails{
+                display: inline-block;
+                width: 390px;
+            }
+            .info{
+                display: inline-block;
+                vertical-align: top;
+            }
+            .profile{
+                width: 45px;
+            }
+            .profile-imgs{
+                display: inline-block;
+                vertical-align: top;
+            }
